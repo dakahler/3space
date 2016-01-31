@@ -1,0 +1,23 @@
+// These lines are ignored as comments
+// Put author/map name here
+
+!define wall
+x y z
+x y z
+x y z
+x y z
+!end
+
+!define wall
+x y z
+x y z
+x y z
+x y z
+!door
+x y z
+x y z
+x y z
+x y z
+!end
+
+// Note: door MUST lie on same plane as wall
